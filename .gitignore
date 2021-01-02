@@ -1,2 +1,13 @@
 .idea
 venv
+assets
+saved_model
+model_checkpoints
+training_assets
+training_assets_best
+training_assets_entire_model
+additional_callbacks.csv
+entire_model.h5
+model-config.json
+best_accurate_cnn_model
+best_accurate_mlp_model
